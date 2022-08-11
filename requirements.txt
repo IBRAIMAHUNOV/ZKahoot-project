@@ -83,7 +83,6 @@ swagger-spec-validator==2.7.4
 tabulate==0.8.10
 treq==22.1.0
 Twisted==22.1.0
-twisted-iocpsupport==1.0.2
 txAMQP3==0.9.3
 txredisapi==1.4.7
 typing_extensions==4.3.0
