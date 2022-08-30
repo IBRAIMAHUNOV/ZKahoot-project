@@ -17,7 +17,7 @@ coreapi==2.3.3
 coreschema==0.0.4
 cryptography==37.0.4
 dj-database-url==1.0.0
-Django==4.0.6
+Django==4.0.7
 django-extra-keywords==1.1.2
 django-filter==22.1
 django-heroku==0.3.1
